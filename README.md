@@ -30,7 +30,6 @@ Then i added styles to it using Css in my styles.css file.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
