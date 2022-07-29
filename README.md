@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/JerryJeager/NFT-Preview-Card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://jerryjeager.github.io/NFT-Preview-Card/)
 
 ## My process
 I started by creating the necessary html elements and contents in my index.html file.
